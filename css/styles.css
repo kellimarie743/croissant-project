@@ -18,6 +18,10 @@ p {
   margin-top: 20px;
 }
 
+.page-links a {
+  margin: 10px;
+}
+
 .pastry-image {
   margin: 0 auto;
   display: block;
