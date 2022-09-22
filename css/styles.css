@@ -12,7 +12,6 @@ p {
   font-size: 25px;
 }
 .page-links {
-  color: #59301e;
   text-align: center;
   font-size: 20px;
   margin-top: 20px;
@@ -20,6 +19,7 @@ p {
 
 .page-links a {
   margin: 10px;
+  color: #59301e;
 }
 
 .pastry-image {
